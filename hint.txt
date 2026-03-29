@@ -1,1 +1,0 @@
-The treasure is in system/backup/flag.txt
